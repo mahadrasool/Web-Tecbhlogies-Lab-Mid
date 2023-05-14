@@ -1,4 +1,5 @@
 # Web-Technologies-Lab-Mid
+# CSC336 Lab Mid
 
-
-Web Page designed using bootstrap for lab mid of CSC336 Web Technologies by Muhammad Mahad Rasool (FA20-BSE-054)
+The web page has been designed using Bootstrap only for lab mid of Web Technologies by Muhammad Mahad Rasool (FA20-BSE-054)
+To be used for educational purposes only
